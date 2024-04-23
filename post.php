@@ -2,9 +2,11 @@
 
 require __DIR__ . '/vendor/autoload.php';
 
-$token = "";
-$token = "";
-$client = new Twilio\Rest\Client($sid, $token);
+// $token = "";
+// $token = "";
+// $client = new Twilio\Rest\Client($sid, $token);
+
+$client = new Twilio\Rest\Client("", "");
 
 $number = $_POST['number']; 
 $message = $_POST['message'];
