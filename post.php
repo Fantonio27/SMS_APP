@@ -2,8 +2,6 @@
 
 require __DIR__ . '/vendor/autoload.php';
 
-// $sid = "AC331dbe79a70bdbc1c012a924ed259a8d";
-// $sid = "AC331dbe79a70bdbc1c012a924ed259a8d";
 $token = "";
 $token = "";
 $client = new Twilio\Rest\Client($sid, $token);
