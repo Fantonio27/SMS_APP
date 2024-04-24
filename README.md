@@ -1,2 +1,2 @@
-- Install kayo ng compose
+- Install kayo ng composer sa device niyo https://getcomposer.org/download/
 - after niyo ma install punta kayo sa document ng twilio https://www.twilio.com/docs/libraries/reference/twilio-php/
